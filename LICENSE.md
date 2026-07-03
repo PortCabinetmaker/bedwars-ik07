@@ -1,4 +1,4 @@
-#  
+#  bedwars Scripts advanced offers the most advanced bedwars Script, with private server access and auto-heal. Perfect for dominating any match.
 
 
 
